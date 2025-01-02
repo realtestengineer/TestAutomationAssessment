@@ -88,4 +88,13 @@ TestAutomationAssessment/
 - Debugging: Run tests in non-headless mode with `--headed` or debug with `--debug`.
 - Artifacts: On failures, screenshots and videos are saved for debugging.
 
-For any issues, refer to the project maintainer or documentation.
+Notes - 
+I have not finished the test cases as requested. I am writing the tests using playwright I'm not very experienced using playwright so its taking a lot longer to complete than i would like. I thought it was a good way to practice my playwright skills. 
+
+Due to poor internet connection I have add 120000 seconds to the test timeouts.
+
+The basic search is complete but due to poor internet connection i cannot run tests end to end to verify it passes successfully.
+
+The Browsing collection is complete but due to poor internet connection i cannot run tests end to end to verify it passes successfully. 
+
+The navigation test is incomplete. I noticed in the manual test the content is not blocked and downloads file without verification. 
